@@ -8,9 +8,14 @@ import './App.css'
 function App() {
   return (
     <>
-    <ShipmentList />
+      {/* <Header />
+      <Sidebar />
+      <MainContent />
+      <Footer />
+      <BackToTop /> */}
+      <ShipmentList />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
